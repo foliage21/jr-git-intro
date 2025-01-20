@@ -1,1 +1,1 @@
-This is my second markdown file
+This is the updated first line of the second file. 2 times.
